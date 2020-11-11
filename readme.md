@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-In this project, we analyse the [Ted Talk dataset](urlhttps://www.kaggle.com/thegupta/ted-talk) obtained through webscraping the TED homepage, to determine what features affects the view count of TED talks. Through the development of selected best model - logistic classification model, the view count of TED talks will be predicted using various features (variables) of TED talks from the [Ted Talk dataset](urlhttps://www.kaggle.com/thegupta/ted-talk).
+In this project, we analyse the [Ted Talk kaggle dataset](urlhttps://www.kaggle.com/thegupta/ted-talk) which was obtained through webscraping the TED homepage, to determine what features affects the view count of TED talks. Through the development of selected best model - logistic classification model, the view count of TED talks will be predicted using various features (variables) of TED talks from the [Ted Talk dataset](urlhttps://www.kaggle.com/thegupta/ted-talk).
 
 This is a binary classification problem which predicts whether a TED talk is popular and unpopular based on its features.
 
@@ -17,7 +17,7 @@ This is a binary classification problem which predicts whether a TED talk is pop
 - KNeighborsClassifier
 - Support Vector Classifier
 
-I am a data scientist working in TED organization. My aim of this project is provide a useful prediction model for our primary stakeholder, TED organization fundraising and marketing department. TED organization is a non profit corporation, to foster the spread of great ideas and spark conversation. Through conference attendance fees, sponsorships, foundation support, licensing fees and book sales, TED raise funds for video editing, web development and hosting for TED Talks, supporting extraordinary new voices as they develop their careers in science, the arts, social justice and of course, The Audacious Project. The Audacious Project is a collaborative funding initiative between TED and non-profits that convenes funders and social entrepreneurs in order to scale solutions to the world's most urgent challenges.
+I am a data scientist working in TED organization. My aim of this project is provide a useful prediction model for our primary stakeholder, TED organization fundraising and marketing department. TED organization is a non profit corporation, to foster the spread of great ideas and spark conversation. Through conference attendance fees, sponsorships, foundation support, licensing fees and book sales, TED raise funds for video editing, web development and hosting for TED Talks, supporting extraordinary new voices as they develop their careers in science, arts, social justice and of course, The Audacious Project. The Audacious Project is a collaborative funding initiative between TED and non-profits that convenes funders and social entrepreneurs in order to scale solutions to the world's most urgent challenges.
 
 TED fundrising department can make use of my model to determine whether a particular talk is popular or unpopular, thereby adjust their fundrising strategy. Also, by knowing factors that will affect/increase view count, TED can invite/advise the speakers accordingly.
 
